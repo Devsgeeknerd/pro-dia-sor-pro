@@ -1,7 +1,9 @@
 <!-- TITLE -->
 # Gerador de Bilhetes Dia de Sorte
 
-<!-- ***Conteúdo:*** -->
+***Conteúdo:***
+
+Projeto basico para testa os conhecimentos adquiridos em Algoritmos e Lógica de Programação.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->

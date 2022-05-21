@@ -14,5 +14,7 @@ print('        JOGANDO NO DIA DE SORTE        ')
 print('-' * 60)
 
 # Pergunta
-quant =int(input('Quantos bilhetes você quer gerar? '))
-tot= 1
+quantidade =int(input('Quantos bilhetes você quer gerar? '))
+total= 1
+
+#Sorteando os números

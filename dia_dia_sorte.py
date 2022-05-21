@@ -10,3 +10,4 @@ jogos = list()
 
 # Titulo
 print('-' * 60)
+print('        JOGANDO NO DIA DE SORTE        ')

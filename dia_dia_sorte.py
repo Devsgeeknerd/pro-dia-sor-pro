@@ -15,3 +15,4 @@ print('-' * 60)
 
 # Pergunta
 quant =int(input('Quantos bilhetes você quer gerar? '))
+tot= 1

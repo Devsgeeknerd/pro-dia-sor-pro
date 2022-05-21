@@ -14,3 +14,4 @@ print('        JOGANDO NO DIA DE SORTE        ')
 print('-' * 60)
 
 # Pergunta
+quant =int(input('Quantos bilhetes você quer gerar? '))

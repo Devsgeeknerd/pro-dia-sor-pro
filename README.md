@@ -1,5 +1,5 @@
 <!-- TITLE -->
-#
+# Gerador de Bilhetes Dia de Sorte
 
 <!-- ***Conteúdo:*** -->
 
@@ -16,7 +16,7 @@
 <!--  * [Recursos úteis](#recursos-úteis) -->
 <!-- * [Autor](#autor) -->
 <!-- * [Agradecimentos](#agradecimentos) -->
-<!-- * [Informações](#informações) -->
+<!-- * [INFORMAÇÕES](#informações) -->
 
 <!-- OVERVIEW -->
 <!-- ## VISTA POR CIMA -->

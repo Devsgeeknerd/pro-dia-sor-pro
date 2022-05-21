@@ -12,3 +12,5 @@ jogos = list()
 print('-' * 60)
 print('        JOGANDO NO DIA DE SORTE        ')
 print('-' * 60)
+
+# Pergunta

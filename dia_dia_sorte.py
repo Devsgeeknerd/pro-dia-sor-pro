@@ -22,3 +22,4 @@ while total <= quantidade:
     cont = 0
     while True:
         num = randint(1, 31)
+        if num not in lista:

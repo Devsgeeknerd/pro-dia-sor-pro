@@ -27,3 +27,4 @@ while total <= quantidade:
             cont += 1
         if cont >= 7:
             break
+    lista.sort()

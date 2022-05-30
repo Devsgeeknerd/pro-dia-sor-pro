@@ -19,3 +19,4 @@ total = 1
 
 # Sorteio
 while total <= quantidade:
+    numero = randint(1, 31)

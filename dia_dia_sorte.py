@@ -18,3 +18,4 @@ quantidade = int(input('Quantos bilhetes quer gerar? '))
 total = 1
 
 # Sorteio
+while total <= quantidade:

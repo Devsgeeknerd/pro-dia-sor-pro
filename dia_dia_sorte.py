@@ -12,3 +12,5 @@ jogos = list()
 print('-=' * 15)
 print('         JOGO DIA DE SORTE         ')
 print('-=' * 15)
+
+# Pergunta quantos jogos serão gerados

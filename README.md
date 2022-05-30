@@ -1,72 +1,65 @@
 <!-- TITLE -->
 # Gerador de Bilhetes Dia de Sorte
 
-***Conteúdo:***
-
-Projeto basico para testa os conhecimentos adquiridos em Algoritmos e Lógica de Programação.
-
 <!-- TABLE OF CONTENTS -->
-## TABELA DE CONTEÚDO
+## **TABELA DE CONTEÚDO**
 
 <!-- * [Vista por cima](#vista-por-cima) -->
-<!--  * [Foto da tela](#foto-da-tela) -->
-<!--  * [Links](#links) -->
-* [Meu processo.](#meu-processo)
-  * [Construído com.](#construido-com)
-<!--  * [O que aprendi.](#o-que-aprendi) -->
-<!--  * [Desenvolvimento contínuo.](#desenvolvimento-contínuo) -->
-<!--  * [Recursos úteis.](#recursos-úteis) -->
-* [Autor.](#autor)
-<!-- * [Agradecimentos.](#agradecimentos) -->
-* [Informações.](#informações)
+  <!-- * [Foto da tela](#foto-da-tela) -->
+  <!-- * [Links](#links) -->
+* [Meu processo](#meu-processo)
+  * [Construido com](#construido-com)
+  <!-- * [O que aprendi](#o-que-aprendi) -->
+  <!-- * [Desenvolvimento continuo](#desenvolvimento-continuo) -->
+  <!-- * [Recursos úteis](#recursos-uteis) -->
+* [Autores](#autores)
+<!-- * [Agradecimentos](#agradecimentos) -->
+* [Informações](#informacoes)
 
 <!-- OVERVIEW -->
-<!-- ## VISTA POR CIMA -->
+<!-- ## **VISTA POR CIMA** -->
 
 <!-- SCREENSHOT -->
-<!-- ### FOTO DA TELA -->
+<!-- ## **FOTO DA TELA** -->
 
 <!-- LINKS -->
-<!-- ### LINKS -->
+<!-- ## **LINKS** -->
 
 <!-- MY PROCESS -->
-## MEU PROCESSO
+## **MEU PROCESSO**
 
 <!-- BUILT WITH -->
-### CONSTRUÍDO COM
+### *CONSTRUÍDO COM*
 
-* [Python.](https://www.python.org/)
+* [Python](https://python.org)
 
 <!-- WHAT I LEARNED -->
-<!-- ### O QUE APRENDI -->
-
-<!-- CONTINUED DEVELOPMENT -->
-<!-- ### DESENVOLVIMENTO CONTÍNUO -->
+<!-- ### *O QUE APRENDI* -->
 
 <!-- USEFUL RESOURCES -->
-<!-- ### RECURSOS ÚTEIS -->
+<!-- ### *RECURSOS ÚTEIS* -->
 
-<!-- AUTHOR -->
-## AUTOR
+<!-- AUTHORS -->
+## **AUTORES**
 
 * [Paulo Vanderley](https://github.com/Devsgeeknerd)
 
 <!-- ACKNOWLEDGMENTS -->
-<!-- ## AGRADECIMENTOS -->
+<!-- ## **AGRADECIMENTOS** -->
 
 <!-- INFORMATION -->
-## INFORMAÇÕES
+## **INFORMAÇÕES**
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fpro-dia-de-sorte&label=VISITANTES&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fpro-dia-sor&label=VISITANTES&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
 ![followers](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=FÃS&labelColor=f9e64f "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/pro-dia-de-sorte?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
+![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/pro-dia-sor?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/pro-dia-de-sorte?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
+![stars](https://img.shields.io/github/stars/Devsgeeknerd/pro-dia-sor?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/pro-dia-de-sorte?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações")
+![forks](https://img.shields.io/github/forks/Devsgeeknerd/pro-dia-sor?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/pro-dia-de-sorte?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
+![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/pro-dia-sor?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/pro-dia-de-sorte?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
+![license](https://img.shields.io/github/license/Devsgeeknerd/pro-dia-sor?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")

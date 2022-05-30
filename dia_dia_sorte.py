@@ -21,3 +21,4 @@ total = 1
 while total <= quantidade:
     contagem = 0
     while True:
+        numero = randint(1, 31)

@@ -2,20 +2,14 @@
 # Gerador de Bilhetes Dia de Sorte
 
 > [!IMPORTANT]\
->
 > **Boas Práticas e Sugestões de Melhoria**:
 >
-> O código poderia ser modularizado, dividindo as diferentes partes em funções para tornar o código mais legível e reutilizável.
->
-> Poderia ser adicionada uma validação para garantir que a quantidade de bilhetes seja maior que zero.
->
-> A lógica para a geração de números únicos pode ser otimizada usando conjuntos (set).
->
-> Poderia ser adicionada uma documentação para explicar o propósito do código e como utilizá-lo.
->
-> Poderia ser adicionado tratamento de erro para lidar com entradas não numéricas ou inválidas.
->
-> Poderia ser considerada a internacionalização das mensagens para tornar o código mais flexível para diferentes idiomas.
+> * O código poderia ser modularizado, dividindo as diferentes partes em funções para tornar o código mais legível e reutilizável.
+> * Poderia ser adicionada uma validação para garantir que a quantidade de bilhetes seja maior que zero.
+> * A lógica para a geração de números únicos pode ser otimizada usando conjuntos (set).
+> * Poderia ser adicionada uma documentação para explicar o propósito do código e como utilizá-lo.
+> * Poderia ser adicionado tratamento de erro para lidar com entradas não numéricas ou inválidas.
+> * Poderia ser considerada a internacionalização das mensagens para tornar o código mais flexível para diferentes idiomas.
 
 <!-- Informações -->
 ## &#8505; Informações
